@@ -1,0 +1,28 @@
+h1{
+    width:100%;
+    text-align:center;
+    font-size:4em;
+}
+
+.mdl-textfield, .mdl-textfield__input{
+    width:400px;
+    font-size:1.5em !important;
+}
+
+.contact_type {
+    font-size:1.5em !important;
+    height:50px;
+    padding:2px;
+    width:400px;
+    outline:none;
+    border:1px solid black;
+    border-radius:0px !important;
+}
+
+.send_message_button{
+    font-size:1.5em;
+    background:none;
+    border:1px solid black;
+    border-radius:2px;
+    width:400px;
+}

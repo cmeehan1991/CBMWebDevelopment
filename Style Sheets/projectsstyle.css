@@ -1,0 +1,17 @@
+h1{
+    text-align:center;
+    font-size:4em;
+    border-bottom:1px solid black;
+}
+.item img, .item .active img{
+    height:500px !important;
+    width:100% !important;
+}
+
+.carousel{
+    position:relative;
+    right:10%;
+    left:10%;
+    width:80%;
+    margin-bottom:10px;
+}
